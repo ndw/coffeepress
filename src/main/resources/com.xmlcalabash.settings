@@ -1,0 +1,2 @@
+namespace http://xmlcalabash.com/ns/extensions = cx
+step cx:invisible-xml = com.xmlcalabash.ext.invisiblexml.IxmlProcessor
